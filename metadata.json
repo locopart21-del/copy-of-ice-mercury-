@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ice Mercury",
+  "description": "A pharmaceutical cold-chain tracking system with rule-based violation detection, real-time monitoring, and simulated corrective actions.",
+  "requestFramePermissions": []
+}
